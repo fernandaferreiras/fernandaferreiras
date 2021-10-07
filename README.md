@@ -12,6 +12,8 @@
   <img src="./img/writing.gif" width="250px">
 </p>
 
+<h4 align="center">🌱 I’m currently learning web front-end, web back-end and interfaces for mobile devices🌱<h4/>
+
 <h4 align="center">Languages and Tools:<h4/>
 
 <p align="center">
