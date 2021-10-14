@@ -1,4 +1,6 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">, I'm Fernanda Ferreira</h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="25px" />, I'm Fernanda Ferreira </h1>
+
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">, I'm Fernanda Ferreira </h1> -->
 
 <h5 align="center">Future full-stack programmer</h5>
 <h4 align="center">I'm 16 years old and i'm starting my career as a developer<h4/>
@@ -16,7 +18,7 @@
 
 <h4 align="center">Languages and Tools:<h4/>
 
-<p align="center">
+<p gap="10px" align="center">
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
