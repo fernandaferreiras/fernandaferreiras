@@ -32,9 +32,11 @@
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<h4 align="center">GitHub:<h4/>
+<h4 align="center">GitHub stats:<h4/>
 
-<div align="center"><br><hr>
+<!-- <img height="25em" src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif"> -->
+
+<div align="center">
   <a href="https://github.com/fernandaferreiras">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fernandaferreiras&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandaferreiras&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight&hide_border=true"/>
