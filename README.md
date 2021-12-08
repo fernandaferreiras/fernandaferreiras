@@ -50,8 +50,8 @@
 <h5 align="center">GitHub stats:<h5/>
 
 <div align="center">
+  <a href="https://github.com/fernandaferreiras">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fernandaferreiras&show_icons=true&theme=tokyonight&hide_border=true"/>
-
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandaferreiras&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
