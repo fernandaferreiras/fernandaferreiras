@@ -42,6 +42,10 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandaferreiras&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
+![Snake animation](https://github.com/fernandaferreiras/fernandaferreiras/blob/output/github-contribution-grid-snake.svg)
+
+
+
 <!-- <div align="center">
     <a href="https://github.com/anuraghazra/convoychat">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandaferreiras&show_icons=true&theme=tokyonight&hide_border=true" />
