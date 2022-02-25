@@ -2,7 +2,7 @@
 
 <h5 align="center">Future full-stack programmer</h5>
 
-<h4 align="center">I'm 16 years old and i'm starting my career as a developer<h4/>
+<h4 align="center">I'm 17 years old and i'm starting my career as a developer<h4/>
 
 <p align="center">
     <a href="mailto:fernandaferreira.0550@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
