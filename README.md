@@ -1,4 +1,4 @@
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> i'm Fernanda Ferreira</h1>
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px"> i'm Fernanda Ferreira</h1>
 
 <h5 align="center">Full-stack JR</h5>
 
