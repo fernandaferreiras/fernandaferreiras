@@ -45,8 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
-    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
 </div>
 
 <h5 align="center">GitHub stats:<h5/>
@@ -56,5 +54,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fernandaferreiras&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandaferreiras&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
-
-![Snake animation](https://github.com/fernandaferreiras/fernandaferreiras/blob/output/github-contribution-grid-snake.svg)
+    
+<div align="center">
+    ![Snake animation](https://github.com/fernandaferreiras/fernandaferreiras/blob/output/github-contribution-grid-snake.svg)
+</div>
