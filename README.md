@@ -13,7 +13,7 @@
   <img src="./img/writing.gif" width="250px">
 </div>
 
-<h5 align="center">🌱 I’m currently study React.js, Node.js and Java (mobile devices) 🌱<h5/>
+<h5 align="center">🌱 I’m currently study React.js, Node.js and Java (for mobile devices) 🌱<h5/>
 
 <h5 align="center">Languages and Tools:<h5/>
 
