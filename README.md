@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <img src="./img/anime/gif-05.gif" width="150em">
+  <img src="./img/anime/gif-05.gif" width="250em">
 </div>
 
 <h5 align="center">🌱 I’m currently study React.js, Node.js and Java (for mobile devices) 🌱<h5/>
