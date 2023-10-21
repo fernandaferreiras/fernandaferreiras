@@ -11,7 +11,7 @@
     <img src="./img/anime/gif-04.gif"  style="border-radius: 8px; width: 400px;"></img>
 </div>
 
-<h5 align="center" href="#">🌱 Angular and PHP 🌱</h5>
+<h5 align="center" color="white">🌱 Angular and PHP 🌱</h5>
 
 <h5 align="center">Languages and Tools:</h5>
 
