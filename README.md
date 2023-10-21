@@ -11,7 +11,7 @@
     <img src="./img/anime/gif-04.gif"  style="border-radius: 8px; width: 400px;"></img>
 </div>
 
-<h5 align="center">🌱 Angular and PHP 🌱</h5>
+<h5 align="center" href="#">🌱 Angular and PHP 🌱</h5>
 
 <h5 align="center">Languages and Tools:</h5>
 
@@ -30,9 +30,9 @@
 
 <h5 align="center">GitHub stats:</h5>
 
-<div align="center" style="display: flex; gap: 10px; height: 170px;" >
-    <img src="https://github-readme-stats.vercel.app/api?username=fernandaferreiras&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" style="border-radius: 8px; width: 50%; height: 170px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandaferreiras&theme=tokyonight&hide_border=true" style="border-radius: 8px; width: 50%; height: 170px;">
+<div align="center">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=fernandaferreiras&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+    <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandaferreiras&theme=tokyonight&hide_border=true" >
 </div>
 
 <!-- ![Snake animation](https://github.com/fernandaferreiras/fernandaferreiras/blob/output/github-contribution-grid-snake.svg) -->
