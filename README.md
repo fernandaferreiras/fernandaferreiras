@@ -35,4 +35,4 @@
     <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandaferreiras&theme=tokyonight&hide_border=true" >
 </div>
 
-<!-- ![Snake animation](https://github.com/fernandaferreiras/fernandaferreiras/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/fernandaferreiras/fernandaferreiras/blob/output/github-contribution-grid-snake.svg)
