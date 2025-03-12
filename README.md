@@ -35,4 +35,4 @@
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaferreiras&layout=compact&langs_count=7&theme=tokyonight&hide_border=true">
 </div>
 
-![Snake animation](https://github.com/fernandaferreiras/fernandaferreiras/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/fernandaferreiras/fernandaferreiras/blob/output/github-contribution-grid-snake.svg) -->
