@@ -31,8 +31,8 @@
 <h5 align="center">GitHub stats:</h5>
 
 <div align="center">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=fernandaferreiras&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
-    <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandaferreiras&theme=tokyonight&hide_border=true" >
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=fernandaferreiras&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaferreiras&layout=compact&langs_count=7&theme=tokyonight&hide_border=true">
 </div>
 
-<!-- ![Snake animation](https://github.com/fernandaferreiras/fernandaferreiras/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/fernandaferreiras/fernandaferreiras/blob/output/github-contribution-grid-snake.svg)
